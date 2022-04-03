@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/divyashree-N/lab-mongodb-query-document-1.git"
+    "url": "git+https://github.com/vardhanak/lab-mongodb-query-document-1.git"
   },
-  "author": "Divyashree",
+  "author": "vardhan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/divyashree-N/lab-mongodb-query-document-1/issues"
+    "url": "https://github.com/vardhanak/lab-mongodb-query-document-1/issues"
   },
-  "homepage": "https://github.com/divyashree-N/lab-mongodb-query-document-1#readme",
+  "homepage": "https://github.com/vardhanak/lab-mongodb-query-document-1#readme",
   "dependencies": {
     "mongodb": "^3.6.3"
   }
